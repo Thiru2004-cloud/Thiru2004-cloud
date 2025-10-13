@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Thirumal+T;Full+Stack+Developer+|+DSA+Enthusiast;Building+AI+Projects+🚀;100+DSA+Problems+Solved+🔥&center=true&size=35&width=800&height=120&color=0078D7" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;DSA+Enthusiast;Building+Projects+🚀;100+DSA+Problems+Solved+🔥&center=true&size=35&width=800&height=120&color=0078D7" alt="Typing SVG"/>
 </p>
 
 <h3 align="center">💻 Aspiring Full Stack Developer | Java & DSA Enthusiast | 100+ DSA Problems Solved</h3>
@@ -49,6 +49,8 @@
   <a href="https://www.codechef.com/users/Thiru2004-cloud" target="_blank"><img src="https://img.shields.io/badge/CodeChef-339933?style=for-the-badge&logo=codechef&logoColor=white"></a>
   <a href="https://codolio.com/user/Thiru2004-cloud" target="_blank"><img src="https://img.shields.io/badge/Codolio-blue?style=for-the-badge&logo=codio"></a>
 </p>
+- "Consistency is key — solve at least one problem daily."  
+- "Every line of code is a step toward mastery."  
 
 ---
 
@@ -82,11 +84,6 @@
   <a href="https://github.com/Thiru2004-cloud" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
   <a href="mailto:kit27.csbs58@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
----
-
-### 🐍 Contribution Snake (Optional)
-![snake gif](https://github.com/Thiru2004-cloud/Thiru2004-cloud/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
