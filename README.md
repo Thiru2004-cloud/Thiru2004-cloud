@@ -50,7 +50,7 @@
   <a href="https://codolio.com/user/Thiru2004-cloud" target="_blank"><img src="https://img.shields.io/badge/Codolio-blue?style=for-the-badge&logo=codio"></a>
 </p>
 - "Consistency is key — solve at least one problem daily."  
-- "Every line of code is a step toward mastery."  
+-
 
 ---
 
@@ -86,5 +86,5 @@
 </p>
 
 ---
-
+ "Every line of code is a step toward mastery."  
 ⭐ *“Code. Learn. Build. Repeat.”*
