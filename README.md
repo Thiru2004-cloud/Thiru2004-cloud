@@ -8,7 +8,7 @@
 
 ### About Me
 - 🎓 3rd Year CSBS Student | Preparing for Product-Based Placements  
-- 💻 Currently building **AI-based Job Recommendation System (React)**  
+- 💻 Currently building **AI-powered YouTube Channel Analytics (React + Python)**  
 - 🧩 Solved 100+ DSA Problems (Striver Sheet + LeetCode)  
 - 🌱 Learning: **MERN Stack, System Design, Communication Skills**  
 - ⚡ Fun Fact: *I debug faster with coffee ☕*  
@@ -18,22 +18,18 @@
 ### 🛠️ Tech Stack
 
 #### 🚀 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
 #### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
-#### 🧱 Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
 
 #### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 #### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -50,7 +46,7 @@
   <a href="https://codolio.com/user/Thiru2004-cloud" target="_blank"><img src="https://img.shields.io/badge/Codolio-blue?style=for-the-badge&logo=codio"></a>
 </p>
 - "Consistency is key — solve at least one problem daily."  
--
+- "Every line of code is a step toward mastery."
 
 ---
 
@@ -73,7 +69,7 @@
 - 🏅 Solved **100+ DSA problems**  
 - 🎯 Completed **100 Days of DSA challenge**  
 - 🏆 Participated in **CodeVita / Hackathons / Placement Prep**  
-- 💼 Building **AI-based Job Recommender** project  
+- 💼 Building **AI-powered YouTube Channel Analytics project**  
 - 🏅 Active on **LeetCode, CodeChef, Codolio** with multiple badges  
 
 ---
@@ -86,5 +82,4 @@
 </p>
 
 ---
- "Every line of code is a step toward mastery."  
-⭐ *“Code. Learn. Build. Repeat.”*
+⭐ *“Code. Learn. Build. Repeat.”*  
